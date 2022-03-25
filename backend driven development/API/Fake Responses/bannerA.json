@@ -1,0 +1,319 @@
+{
+    "widgets": [
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#84C8DB",
+            "title": "Banner A01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#8BD4E8",
+            "title": "Banner A02",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#92DFF5",
+            "title": "Banner A03",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+    ]
+}

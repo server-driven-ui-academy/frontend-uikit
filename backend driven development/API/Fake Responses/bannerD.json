@@ -1,0 +1,32 @@
+{
+    "widgets": [
+        {
+            "identifier": "BANNER",
+            "color": "#FFBFA6",
+            "title": "Banner D01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "SECTION_TITLE",
+            "title": "Similar options",
+        },
+        {
+            "identifier": "LIST",
+            "list": [
+                {
+                    "color": "#DDDDDD",
+                    "text": "Option D02",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Option D03",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Option D04",
+                },
+            ]
+        },
+    ]
+}

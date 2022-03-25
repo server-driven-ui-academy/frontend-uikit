@@ -1,0 +1,54 @@
+{
+    "widgets": [
+        {
+            "identifier": "BANNER",
+            "color": "#96E4F4",
+            "title": "Banner A",
+            "titleColor": "#000000",
+            "action": {
+                "identifier": "SCREEN_SERVER",
+                "title": "Banner A Details",
+                "url": "bannerA",
+            },
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "SECTION_TITLE",
+            "title": "Pictures",
+        },
+        {
+            "identifier": "GRID",
+            "list": [
+                {
+                    "color": "#ABFFB8",
+                    "text": "Product 11 Name",
+                },
+                {
+                    "color": "#96E4F4",
+                    "text": "Product 15 Name",
+                },
+            ]
+        },
+        {
+            "identifier": "SECTION_TITLE",
+            "title": "Similar Products",
+        },
+        {
+            "identifier": "LIST",
+            "list": [
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 01",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 02",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 03",
+                },
+            ]
+        },
+    ]
+}

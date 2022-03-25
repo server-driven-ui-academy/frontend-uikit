@@ -1,0 +1,11 @@
+{
+    "widgets": [
+        {
+            "identifier": "BANNER",
+            "color": "#ABFFB8",
+            "title": "Banner B01",
+            "titleColor": "#000000",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+    ]
+}

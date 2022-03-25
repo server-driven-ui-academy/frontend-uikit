@@ -1,0 +1,18 @@
+{
+    "widgets": [
+        {
+            "identifier": "BANNER",
+            "color": "#6651C2",
+            "title": "Banner C01",
+            "titleColor": "#FFFFFF",
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "BANNER",
+            "color": "#735CDB",
+            "title": "Banner C02",
+            "titleColor": "#FFFFFF",
+            "imageURLString": "url_image_to_be_downloaded"
+        }
+    ]
+}

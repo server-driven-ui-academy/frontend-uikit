@@ -1,0 +1,35 @@
+{
+    "widgets": [
+        {
+            "identifier": "BIG_IMAGE",
+            "color": "#ABFFB8",
+            "action": {
+                "identifier": "SCREEN_SERVER",
+                "title": "Banner A Details",
+                "url": "bannerA",
+            },
+            "imageURLString": "url_image_to_be_downloaded"
+        },
+        {
+            "identifier": "SECTION_TITLE",
+            "title": "Similar Products",
+        },
+        {
+            "identifier": "LIST",
+            "list": [
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 01",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 02",
+                },
+                {
+                    "color": "#DDDDDD",
+                    "text": "Cell 03",
+                },
+            ]
+        },
+    ]
+}
